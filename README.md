@@ -1,4 +1,3 @@
-```markdown
 # PhotoXMP
 
 A part of my script collection for downloading images from iCloud with [kei](https://github.com/rhoopr/kei) 
@@ -550,7 +549,7 @@ This makes future rebuilds easier.
 
 ### Remote Ollama
 ```bash
-./photoxmp.sh --src /volume2/Pictures --ollama-url http://10.0.0.73:11434 --model qwen3-vl:32b
+./photoxmp.sh --src /volume2/Pictures --ollama-url http://192,168.17:11434 --model qwen3-vl:32b
 ```
 
 ---
